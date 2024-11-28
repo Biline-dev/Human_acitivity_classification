@@ -12,7 +12,7 @@ The project is organized as follows:
 │   ├── data_preparation.ipynb  # Notebook for data preparation.  
 │   ├── Exploratory_data_analysis.ipynb  # Notebook for data analysis.  
 │   └── model_training.ipynb  # Notebook for model training and evaluation.  
-│   └── Human_activity_classification_project.ipynb  # Notebook for steps
+│   └── Human_activity_classification_project.ipynb  # Notebook for steps. 
 │
 ├── video_demo  
 └── requirements.txt  #Lists the dependencies for setting up the project environment.  
