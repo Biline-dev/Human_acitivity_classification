@@ -1,4 +1,8 @@
-Project Structure
+### Project presented by :
+* Boulmaali Linda Imene
+* GUI Kexin
+
+### Project Structure : 
 The project is organized as follows:
 
 ├── data  
@@ -17,3 +21,4 @@ The project is organized as follows:
 
 ├── video_demo  
 └── requirements.txt  #Lists the dependencies for setting up the project environment.  
+
